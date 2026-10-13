@@ -12,6 +12,7 @@ A collection of practical, research-based cybersecurity case studies covering re
 | Web Security | [React2Shell — CVE-2025-55182](web/react2shell-cve-2025-55182.md) | Unsafe deserialization in React Server Components leading to pre-authentication RCE |
 | Incident Response | [Okta Support-System Breach (2023)](incident-response/okta-support-system-breach-2023.md) | Support-data exposure, session-token handling, and incident response |
 | DevSecOps | [Git Push Pipeline Metadata Injection — CVE-2026-3854](devsecops/github-git-push-pipeline-cve-2026-3854.md) | Delimiter injection in internal metadata leading to server-side command execution |
+| Authentication | [Cisco License On-Prem CVE-2026-20328](authentication/cisco-license-on-prem-cve-2026-20328-password-reset.md) | Unauthenticated arbitrary-account password reset in management interface |
 
 ## Approach
 
