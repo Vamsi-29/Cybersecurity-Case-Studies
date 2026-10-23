@@ -25,3 +25,9 @@ Each case study focuses on:
 - Detection opportunities
 - Remediation
 - Practical lessons for penetration testing and defensive engineering
+
+## Research Integrity
+
+These case studies are intended to demonstrate security analysis and technical communication, not original vulnerability discovery. For each case study, source claims to vendor advisories, vulnerability databases, and public reporting where applicable. Readers should treat the cited primary sources as authoritative for affected versions, severity, disclosure details, and remediation guidance.
+
+When a case study discusses exploitation or testing, the examples are presented as controlled-analysis scenarios unless the writeup explicitly states otherwise. No claim of personal discovery, reporting, or exploitation should be inferred from inclusion in this repository.
