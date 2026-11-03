@@ -14,6 +14,7 @@ A collection of practical, research-based cybersecurity case studies covering re
 | Incident Response | [Okta Support-System Breach (2023)](incident-response/okta-support-system-breach-2023.md) | Support-data exposure, session-token handling, and incident response |
 | DevSecOps | [Git Push Pipeline Metadata Injection — CVE-2026-3854](devsecops/github-git-push-pipeline-cve-2026-3854.md) | Delimiter injection in internal metadata leading to server-side command execution |
 | Authentication | [Cisco License On-Prem CVE-2026-20328](authentication/cisco-license-on-prem-cve-2026-20328-password-reset.md) | Unauthenticated arbitrary-account password reset in management interface |
+| Network Security | [Node.js CVE-2026-105482](network-security/nodejs-cve-2026-105482-dns-nul-truncation.md) | NUL-byte hostname truncation in c-ares-backed DNS resolution and allowlist mismatch |
 
 ## Approach
 
